@@ -13,5 +13,5 @@
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div><br>
 
-- 🌱 No momento estou aprendendo TypeScript
+- 🌱 No momento estou trabalho com WebODM e FIELDimagerR
 - 📫 Contato: edivanazevedo33@gmail.com
