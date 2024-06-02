@@ -23,10 +23,9 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 
 ## Contato
 - 🌱 No momento estou trabalho aprendendo Node.js
-- 📫 Contato: [edivanazevedo33@gmail.com](mailto:edivanazevedo33@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/edivanazevedo](https://www.linkedin.com/in/edivan-azevedo-08b25126a/))
+- 📫 Contato: ([mailto:edivanazevedo33@gmail.com])
 - 🌐 [Portfólio] (A fazer)
 
 <!-- Badges de redes sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivanazevedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/edivanazevedo](https://www.linkedin.com/in/edivan-azevedo-08b25126a/))
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/divanazevedo/)
