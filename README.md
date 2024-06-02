@@ -17,9 +17,9 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Projetos em Destaque
-- [**Projeto 1**]([https://github.com/EdivanAzevedo/projeto1](https://github.com/EdivanAzevedo/ProjetoClima)): Projeto para praticar o consumo da Weather API.
-- [**Projeto 2**]([https://github.com/EdivanAzevedo/projeto2](https://github.com/EdivanAzevedo/gameCobrinha)): Projeto em que foi praticado a lógica do jogo da cobrinha junto com CSS.
-- [**Projeto 3**]([https://github.com/EdivanAzevedo/projeto3](https://github.com/EdivanAzevedo/Relogio)): Projeto em que foi desenvolvido um relógio digitals.
+- [**Projeto 1**]([https://github.com/EdivanAzevedo/ProjetoClima]): Projeto para praticar o consumo da Weather API.
+- [**Projeto 2**]([https://github.com/EdivanAzevedo/gameCobrinha]): Projeto em que foi praticado a lógica do jogo da cobrinha junto com CSS.
+- [**Projeto 3**]([https://github.com/EdivanAzevedo/Relogio]): Projeto em que foi desenvolvido um relógio digitals.
 
 ## Contato
 - 🌱 No momento estou trabalho aprendendo Node.js
@@ -29,4 +29,4 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 
 <!-- Badges de redes sociais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivanazevedo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edivanazevedo)
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/divanazevedo/)
