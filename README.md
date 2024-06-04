@@ -6,6 +6,24 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdivanAzevedo&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdivanAzevedo&show_icons=true&theme=dark)](https://github.com/EdivanAzevedo/github-readme-stats)
 
+# Edivan Azevedo
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdivanAzevedo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdivanAzevedo&layout=compact&theme=dark)](https://github.com/EdivanAzevedo/github-readme-stats)
+
+## Additional Badges
+
+### GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdivanAzevedo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=EdivanAzevedo&color=blue)
+
+### Followers
+![GitHub Followers](https://img.shields.io/github/followers/EdivanAzevedo?style=social)
+
+
 ## Sobre Mim
 Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por tecnologia. Atualmente, estou focado em desenvolvimento web front-end com JavaScript e explorando novas tecnologias.
 
