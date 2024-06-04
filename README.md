@@ -17,9 +17,10 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Projetos em Destaque
-- [**Projeto Clima**](https://github.com/EdivanAzevedo/ProjetoClima): Breve descrição do projeto.
-- [**Game Cobrinha**](https://github.com/EdivanAzevedo/gameCobrinha): Breve descrição do projeto.
-- [**Relógio**](https://github.com/EdivanAzevedo/Relogio): Breve descrição do projeto.
+- [**Portifolio**](https://edivanazevedo.github.io/myPortifolio)
+- [**Projeto Clima**](https://github.com/EdivanAzevedo/ProjetoClima)
+- [**Game Cobrinha**](https://github.com/EdivanAzevedo/gameCobrinha)
+- [**Relógio**](https://github.com/EdivanAzevedo/Relogio):
 
 ## Contato
 - 🌱 No momento estou estudando Node.js
