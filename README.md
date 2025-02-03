@@ -14,6 +14,8 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ## Projetos em Destaque
 - [**Portifolio**](https://edivanazevedo.github.io/myPortifolio)
