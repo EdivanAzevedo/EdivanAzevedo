@@ -22,7 +22,7 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 - [**Relógio**](https://github.com/EdivanAzevedo/Relogio):
 
 ## Contato
-- 🌱 No momento estou estudando Node.js
+- 🌱 No momento estou trabalhando com Laravel
 - 📫 Contato: [edivanazevedo33@gmail.com](mailto:edivanazevedo33@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/edivan-azevedo-08b25126a/)
 - 📸 [Instagram](https://www.instagram.com/divanazevedo/)
