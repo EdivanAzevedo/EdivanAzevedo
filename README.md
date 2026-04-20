@@ -18,7 +18,7 @@ Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por t
 
 
 ## Projetos em Destaque
-- [**Portifolio**](https://edivanazevedo.github.io/myPortifolio)
+- [**Gerenciador de Estoque**](https://github.com/EdivanAzevedo/inventory-management)
 - [**Projeto Clima**](https://github.com/EdivanAzevedo/ProjetoClima)
 - [**Game Cobrinha**](https://github.com/EdivanAzevedo/gameCobrinha)
 - [**Relógio**](https://github.com/EdivanAzevedo/Relogio):
