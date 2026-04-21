@@ -34,5 +34,5 @@ comprometido com boas práticas e melhoria contínua.
 - 📸 [Instagram](https://www.instagram.com/divanazevedo/)
 
 <!-- Badges de redes sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivan-azevedo-08b25126a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivan-azevedo-de-paula-08b25126a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divanazevedo/)
