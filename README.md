@@ -6,7 +6,11 @@
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EdivanAzevedo&layout=compact&theme=dark)](https://github.com/EdivanAzevedo/github-readme-stats)
 
 ## Sobre Mim
-Olá! Eu sou Edivan, um estudante de Engenharia de Computação apaixonado por tecnologia. Atualmente, estou focado em desenvolvimento web front-end com JavaScript e explorando novas tecnologias.
+Desenvolvedor Backend com formação em Engenharia de Computação e experiência prática em
+desenvolvimento de sistemas web com Laravel, PHP e MySQL. Atuação com APIs RESTful, inteligência
+artificial aplicada e geoprocessamento. Atualmente aprofundando conhecimentos em arquitetura de software,
+com foco em Clean Architecture, Arquitetura Hexagonal e Domain-Driven Design. Perfil proativo,
+comprometido com boas práticas e melhoria contínua.
 
 ## Tecnologias e Ferramentas
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
